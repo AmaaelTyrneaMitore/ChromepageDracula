@@ -1,0 +1,12 @@
+{
+    "name": "Chromepage Dracula",
+    "description": "Personalized override of Karenying's chromepage that matches with my current DE & Browser theme.",
+    "version": "1.0",
+    "chrome_url_overrides": { "newtab": "index.html" },
+    "manifest_version": 2,
+    "icons": {
+        "16": "icon.jpg",
+        "48": "icon.jpg",
+        "128": "icon.jpg"
+    }
+}
