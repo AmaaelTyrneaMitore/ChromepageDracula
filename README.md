@@ -1,12 +1,12 @@
-# BravePage
+# Chromepage Dracula 🧛🏻
 
-Personalized override of Chrome New Tab page.
+💫 Personalized override of Karenying's chromepage that matches with my current DE & Browser theme.
 
 ![](preview.gif)
 
-[Clock](https://codepen.io/harshabhat86/full/tAxuF) lifted from [@harshabhat86](https://github.com/harshabhat86). Theme consistent with my personal site: http://karenying.com/.
+💜 Theme consistent with my personal desktop config (Arch Linux + i3wm).
 
-See a live demo [here](https://karenying.github.io/chromepage/). Full tutorial [here](https://www.blog.karenying.com/posts/customize-chrome-new-tab-page-in-30-seconds)
+🚀 See a live demo [here](https://amaaeltyrneamitore.github.io/chromepage-dracula/).
 
 ## Installation
 1. Clone this repo.
