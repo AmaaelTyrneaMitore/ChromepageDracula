@@ -6,7 +6,7 @@
 
 💜 Theme consistent with my personal desktop config (Arch Linux + i3wm).
 
-🚀 See a live demo [here](https://amaaeltyrneamitore.github.io/chromepage-dracula/).
+🚀 See a live demo [here](https://amaaeltyrneamitore.github.io/ChromepageDracula/).
 
 ## Installation
 1. Clone this repo.
